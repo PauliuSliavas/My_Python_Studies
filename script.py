@@ -3,7 +3,7 @@
 ####       Made By - Slyvoncas, for all Hackers and Makers :)              ####
 ####    This is my Python Learning exercises, if you can make it better,   ####
 ####    please do so and share it with me..!                               ####
-####                                              @ two ball cane          ####
+####                                              @ baphomet               ####
 ####                                                                       ####
 ###############################################################################
 ###############################################################################
