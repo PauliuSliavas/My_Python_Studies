@@ -8,7 +8,10 @@
 ###############################################################################
 ###############################################################################
 
-import socket
-import os
-import time
+import requests
+
+req = requests.get('http://httpbin.org/basic-auth/user1/passwd', auth =('user1', 'passwd'))
+print(req.text) # U can use req.json - this will give resp.code etc.
+
+
 
