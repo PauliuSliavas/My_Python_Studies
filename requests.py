@@ -11,7 +11,8 @@
 ###################################################################### 
 
 # Here will be various usages of Python Lib "requests"
-# For basic authentication... 
+# https://docs.python-requests.org/en/v2.0.0/ - LIBRARY DOCUMENTATION / MANUAL
+# For basic authentication, script below.. :)
 
 import requests
 
