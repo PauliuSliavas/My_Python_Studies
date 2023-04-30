@@ -23,7 +23,7 @@ user $ mkdir your_dir_name
 user $ cd your_dir_name
 user/your_dir_name $ python3 -m venv fl_venv   # fl_venv is just how you name it, it can be any name
 user/your_dir_name $ ls -ltr   # to check if virtual enviroment was created successfully
-user/your_dir_name $ . fl_venv/bin/activate   # This will activate virtual enviroment
+user/your_dir_name $ . fl_venv/bin/activate   # This will activate virtual enviroment | source bin/deactivate - to stop
 user/your_dir_name $ flask run   # it will start everything, and you will get a notice in the terminal window. Flask will run 127.0.0.1:5000 
 
 ----------------------------------------------------------------------------------
