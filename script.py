@@ -8,6 +8,8 @@
 ###############################################################################
 ###############################################################################
 
+# For basic authentication
+
 import requests
 
 req = requests.get('http://httpbin.org/basic-auth/user1/passwd', auth =('user1', 'passwd'))
