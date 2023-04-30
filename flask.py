@@ -19,4 +19,4 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello_world():
-    return "<h1> Labas, Pauliune</h1>"
+    return "<h1> Your output in HTML </h1>"
